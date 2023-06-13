@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Agent Reports",
+    "short_description": "Export data about your Admins & Agents in CSV, XSLX, PDF, HTML, and JSON.",
+    "long_description": "Export data about your Admins & Agents in CSV, XSLX, PDF, HTML, and JSON.",
+    "installation_instructions": "Simply click install."
+  }
+}
