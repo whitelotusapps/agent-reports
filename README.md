@@ -45,17 +45,17 @@ SAFE
 2. Login to the Admin Console of your Zendesk Instance
 3. Navigate to "Zendesk Support Apps"
 4. In the upper right hand corner of the screen, there should be a "Upload private app" button, click on this
-5. For the "App Name", type in "User Reports"
+5. For the "App Name", type in "Agent Reports"
 6. Click "Choose File"
-7. Browse to the location on your computer where you saved the "users-reports-1.0.zip" (NOTE: the version number is subject to change)
+7. Browse to the location on your computer where you saved the "agent-reports-1.0.zip" (NOTE: the version number is subject to change)
 8. Click "Upload"
 9. Another screen should appear, review the caveats, and if you are sure, then press "Upload"
 10. The app will then queue and then install into your Zendesk instance
 11. You will be presented with the standard config screen to enable role and/or group restrictions
 12. Once you have defined the restrictions, click "Install"
-13. The "User Reports" app is now installed into your Zendesk instance
+13. The "Agent Reports" app is now installed into your Zendesk instance
 
-You will find the "User Report" icon located on the left hand side of the Agent support window.
+You will find the "Agent Reports" icon located on the left hand side of the Agent support window.
 
 ## Configuration
 
