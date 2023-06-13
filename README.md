@@ -16,6 +16,8 @@ The purpose of this app is to allow Zendesk Admins to export their entire Admin 
 Things to know about v1.0:
 
 - To obtain the text names of the groups and organizations, two API calls are made per user
+- On Zendesk instances with hundreds of Admins & Agents, it could take multiple minutes for the app to load
+  - As of 2023-06-13, there have been reports of about 3 to 5 minute load times with a few hundred agents
 - The user search criteria is:
 ```
 /api/v2/users?role[]=admin&role[]=agent&page[size]=100
