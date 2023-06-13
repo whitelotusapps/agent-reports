@@ -20,7 +20,7 @@ Things to know about v1.0:
 ```
 /api/v2/users?role[]=admin&role[]=agent&page[size]=100
 ```  
-    - This means that we are searching for ALL users, not just Agents and Admins
+- This means that we are searching ONLY Admins & Agents, not end-users
 - As seen above, we are currently using CBP and set the page size to 100 entries
 - This version pages through all of the pages and aggregates all of the data into one large array that it then passes to the table for displaying
 ## Known Issues:
